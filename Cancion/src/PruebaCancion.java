@@ -12,8 +12,6 @@ public class PruebaCancion {
 		Cancion terceraCancion = new Cancion("Come Join The Murder", "The White Buffalo & The Forest Rangers", 420, false);
 		Cancion cuartaCancion = new Cancion("Wrong Side of Heaven", "FFDP", 360, false);
 		Cancion quintaCancion = new Cancion("When the seasons change", "FFDP", 300, false);
-		Cancion sextaCancion = new Cancion("Wrong Side of Heaven", "FFDP", 360, false);
-		Cancion septimaCancion = new Cancion("When the seasons change", "FFDP", 300, false);
 
 		
 		if (primeraCancion.reproducirCancion()) {
